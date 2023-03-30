@@ -32,7 +32,7 @@ Ejecuta npm run dev para correr la aplicación en modo desarrollo.</br>
 Abre http://localhost:3000 en tu navegador.</br>
 
 <h3>Acceso a la aplicación</h3>
-La aplicación está disponible en línea en https://pg-front-henry.vercel.app/.
+La aplicación está disponible en línea en https://grooveticket.up.railway.app/.
 
 <h3>¿Cómo testear la funcionalidad de carrito y pasarela de pago?</h3>
 Para poder completar una compra, como la app está todavía en modo desarrollo, se debe utilizar los datos de la tarjeta provista por Mercado Pago. </br>
